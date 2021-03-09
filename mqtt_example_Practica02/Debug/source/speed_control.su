@@ -1,0 +1,8 @@
+fsl_ftm.h:671:20:FTM_StartTimer	24	static
+fsl_ftm.h:963:20:FTM_SetSoftwareTrigger	16	static
+speed_control.c:48:6:delay	16	static
+speed_control.c:60:5:Init_speed_Control	56	static
+speed_control.c:111:13:increase_decrease_speed	24	static
+speed_control.c:126:6:move_motor	16	static
+speed_control.c:138:6:turn_on_with_pwm	8	static
+speed_control.c:144:6:turn_off_with_pwm	16	static

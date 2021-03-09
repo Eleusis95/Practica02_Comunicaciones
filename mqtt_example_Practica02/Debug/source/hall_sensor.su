@@ -1,0 +1,4 @@
+fsl_adc16.h:363:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:487:24:ADC16_GetChannelConversionValue	16	static
+hall_sensor.c:38:6:Init_Hall_sensor	24	static
+hall_sensor.c:84:6:Hall_on	16	static

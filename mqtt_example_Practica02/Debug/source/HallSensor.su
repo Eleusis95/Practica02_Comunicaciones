@@ -1,0 +1,7 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:435:28:EnableIRQ	16	static
+fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+fsl_gpio.h:197:20:GPIO_PortToggle	16	static
+HallSensor.c:49:6:PORTC_IRQHandler	8	static
+HallSensor.c:66:6:hall_init	16	static
+HallSensor.c:93:10:motor_active	8	static

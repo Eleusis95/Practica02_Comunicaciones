@@ -1,0 +1,8 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:435:28:EnableIRQ	16	static
+fsl_ftm.h:667:20:FTM_StartTimer	24	static
+fsl_ftm.h:957:20:FTM_SetSoftwareTrigger	16	static
+servo.c:58:6:FTM0_IRQHandler	8	static
+servo.c:68:6:ftm_init	48	static
+servo.c:96:6:move_Servo	24	static
+servo.c:129:6:servo_task	24	static

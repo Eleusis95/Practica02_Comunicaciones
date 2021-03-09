@@ -1,0 +1,5 @@
+fsl_adc16.h:363:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:487:24:ADC16_GetChannelConversionValue	16	static
+joystick.c:38:6:Init_JoyStick	24	static
+joystick.c:84:10:Joystick_position	16	static
+joystick.c:106:14:ADC_to_Kohms	24	static

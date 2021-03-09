@@ -1,0 +1,9 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:435:28:EnableIRQ	16	static
+fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+fsl_ftm.h:637:20:FTM_SetTimerPeriod	16	static
+fsl_ftm.h:671:20:FTM_StartTimer	24	static
+motor_speed.c:50:6:PORTB_IRQHandler	8	static
+motor_speed.c:64:6:init_motor_calculate_speed	48	static
+motor_speed.c:108:5:motor_speed	24	static
+motor_speed.c:129:6:FTM0_IRQHandler	8	static

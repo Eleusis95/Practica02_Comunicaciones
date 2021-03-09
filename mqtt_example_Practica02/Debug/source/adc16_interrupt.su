@@ -1,0 +1,8 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:435:28:EnableIRQ	16	static
+fsl_adc16.h:363:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:487:24:ADC16_GetChannelConversionValue	16	static
+adc16_interrupt.c:47:16:conversionToInclinationDegrees	24	static
+adc16_interrupt.c:56:6:ADC0_IRQHandler	8	static
+adc16_interrupt.c:68:5:Init_ADC_JOYSTICK	24	static
+adc16_interrupt.c:115:9:Joystick_position	16	static

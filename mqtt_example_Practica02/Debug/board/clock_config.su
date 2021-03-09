@@ -1,0 +1,7 @@
+fsl_clock.h:890:20:CLOCK_SetSimSafeDivs	4	static
+fsl_clock.h:1239:20:CLOCK_SetXtal0Freq	16	static
+fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+clock_config.c:76:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+clock_config.c:164:6:BOARD_BootClockRUN	8	static
+clock_config.c:255:6:BOARD_BootClockVLPR	8	static
